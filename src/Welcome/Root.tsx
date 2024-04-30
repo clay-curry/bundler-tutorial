@@ -6,7 +6,7 @@ export const RemotionRoot: React.FC = () => {
 	return (
 		<>
 			<Composition
-				id="MyComp"
+				id="WelcomeToRemoteWithTailwindCSS"
 				component={MyComposition}
 				durationInFrames={240}
 				fps={30}
