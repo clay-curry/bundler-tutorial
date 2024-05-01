@@ -38,7 +38,6 @@ export const Title = () => {
 
 			{/* Title */}
 
-						{/* Title */}
 						<div
 				className="absolute bottom-32 text-6xl font-bold leading-relaxed"
 				style={{
