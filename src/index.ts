@@ -1,4 +1,4 @@
 import {registerRoot} from 'remotion';
-import {RemotionRoot} from './ReactRenderTree/Root';
+import {Composition} from './Composition';
 
-registerRoot(RemotionRoot);
+registerRoot(Composition);
